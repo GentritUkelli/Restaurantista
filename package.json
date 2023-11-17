@@ -1,0 +1,10 @@
+{
+ "name": "restaurantista",
+ "version": "1.0.0",
+ "description": "A reference project for live sessions",
+
+ "scripts": {
+  "start": "node server.js"
+
+ }
+}
