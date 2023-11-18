@@ -45,7 +45,7 @@ const server = http.createServer((req, res) => {
           contentType =  `text/css`;
           break;
       case `.js`:
-        contentType = `text/javascript`;
+        contentType = `text/js`;
         break;
     }
 
